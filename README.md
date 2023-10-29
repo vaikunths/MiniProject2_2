@@ -15,5 +15,4 @@ Hi.
 - main
 - feature
 
-## Resolve merge conflicts
-- Resolve feature branch conflicts
+
